@@ -1,0 +1,42 @@
+{
+  "name": "campo-1",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "core-js": "^3.6.4",
+    "jspdf": "^1.5.3",
+    "jspdf-autotable": "^3.4.3",
+    "leaflet": "^1.6.0",
+    "material-design-icons-iconfont": "^5.0.1",
+    "roboto-fontface": "*",
+    "vue": "^2.6.11",
+    "vue-axios": "^2.1.5",
+    "vue-pdf": "^4.0.8",
+    "vue-router": "^3.1.5",
+    "vue-videobg": "^2.0.0",
+    "vue2-leaflet": "^2.5.2",
+    "vuelayers": "^0.11.5-beta.9",
+    "vuetify": "^2.2.11",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.2.0",
+    "@vue/cli-plugin-router": "^4.2.0",
+    "@vue/cli-plugin-vuex": "^4.2.0",
+    "@vue/cli-service": "^4.2.0",
+    "sass": "^1.19.0",
+    "sass-loader": "^8.0.0",
+    "vue-cli-plugin-vuetify": "^2.0.5",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify-loader": "^1.3.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
